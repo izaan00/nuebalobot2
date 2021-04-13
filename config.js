@@ -12,8 +12,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'DarkZE\n     🔥Nuebalobot🔥'
-global.author = '🔐DarkZE👑'
+global.packname = 'DarkZE\n     🔥DarkZE/BOT🔥'
+global.author = '🔐wa.me/+524447000553👑'
 
 global.multiplier = 69 // The higher, The harder levelup
 
